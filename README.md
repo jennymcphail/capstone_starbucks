@@ -46,3 +46,5 @@ Here is the schema and explanation of each variable in the files:
 - json
 - matplotlib
 - sklearn
+
+You can find my blog post here: [Starbucks Blog](https://github.com/jennymcphail/github.starbucks.io)
